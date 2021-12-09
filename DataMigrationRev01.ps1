@@ -1,5 +1,5 @@
 <#>
-Work in progress. Has not been fully tested. Might cmdlet to robocopy due to permissions. 
+Work in progress. Has not been fully tested. Might switch cmdlet to robocopy due to permissions. 
 </#>
 
 $folderName = "$env:COMPUTERNAME-"+(Get-Date –f "MM-dd-yyyy")
