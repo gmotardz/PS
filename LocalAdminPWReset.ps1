@@ -2,6 +2,7 @@
 Make sure to define values for the variables. 
        *elevated powershell console required, might add function to test for admin privilages in later release*. 
 
+~by Gil Mota
 </#>
 
 # VARIABLE DECLARATION #
