@@ -1,4 +1,0 @@
-# VARIABLE DECLARATION #
-$Account = "Test PC"
-$AccountObject = Get-LocalUser -name $Account -ErrorAction SilentlyContinue
-$NewPassword = ConvertTo-SecureString "Password2021" –AsPlainText –Force
